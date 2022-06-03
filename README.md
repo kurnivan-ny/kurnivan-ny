@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola 👋
+
+![Kurnivan N Y GitHub stats](https://github-readme-stats.vercel.app/api?username=kurnivan-ny&show_icons=true&theme=rose_pine)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=rose_pine)
+
 
 <!--
 **kurnivan-ny/kurnivan-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

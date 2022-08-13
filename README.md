@@ -1,4 +1,5 @@
 ### Hola 👋👋👋
+---
 
 You can call me `Ivan`
 
@@ -27,6 +28,11 @@ You can call me `Ivan`
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=prussian"/>
 </a>
 </p>
+
+---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kurnivan-ny&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
 
 <!--
 **kurnivan-ny/kurnivan-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,14 +21,6 @@ You can call me `Ivan`
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 📊 GitHub Stats:
-<p align="left">
-<a href="https://github.com/kurnivan-ny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurnivan-ny&show_icons=true&theme=prussian"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=prussian"/>
-</a>
-</p>
-
 ---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kurnivan-ny&label=Profile%20Views&color=0&icon=2&pretty=true" />
@@ -49,4 +41,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kurnivan-ny&theme=prussian&hide_border=false)<br/>
+
+### 📊 GitHub Stats:
+<p align="left">
+<a href="https://github.com/kurnivan-ny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurnivan-ny&show_icons=true&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=prussian"/>
+</a>
+</p>
+
 -->

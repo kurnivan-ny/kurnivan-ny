@@ -21,12 +21,6 @@ You can call me `Ivan`
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kurnivan-ny&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</a>
-
----
 ### 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/kurnivan-ny">
@@ -34,6 +28,11 @@ You can call me `Ivan`
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=prussian"/>
 </a>
 </p>
+
+---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kurnivan-ny&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
 <!--
 **kurnivan-ny/kurnivan-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

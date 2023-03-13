@@ -26,6 +26,14 @@ You can call me `Ivan`
   <img src="https://visitcount.itsvg.in/api?id=kurnivan-ny&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
 
+---
+### 📊 GitHub Stats:
+<p align="left">
+<a href="https://github.com/kurnivan-ny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurnivan-ny&show_icons=true&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnivan-ny&layout=compact&theme=prussian"/>
+</a>
+</p>
 <!--
 **kurnivan-ny/kurnivan-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

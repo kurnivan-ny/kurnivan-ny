@@ -3,7 +3,7 @@
 
 You can call me `Ivan`
 
-🌱 I’m currently learning about Machine Learning, Deep Learning (Computer Vision), and Data Analysis (SQL and Tableu)
+🌱 I’m currently learning about Machine Learning, Deep Learning (Computer Vision), and Data Analysis (SQL)
 
 ⚡ Fun fact: Running
 
